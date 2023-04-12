@@ -101,3 +101,25 @@ body {
     display: block;
   }
   
+  .cloudy {
+    color: #888;
+  }
+  .rainy {
+    color: #4a4a4a;
+  }
+  .stormy {
+    color: #000;
+  }
+  .snowy {
+    color: #fff;
+  }
+  .foggy {
+    color: #777;
+  }
+  .sunny {
+    color: #f8c018;
+  }
+  .default {
+    color: #000;
+  }
+  
